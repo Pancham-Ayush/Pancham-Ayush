@@ -13,7 +13,7 @@ I enjoy building production-grade systems deployed on AWS/GCP with observability
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pancham-Ayush)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Pancham-Ayush/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchamayush@gmail.com)
-[![JUG Bangalore](https://img.shields.io/badge/JUG-Bangalore-007396?logo=java&logoColor=white)]([https://www.meetup.com/bangalore-jug/](https://www.meetup.com/bangalorejug/))
+[![JUG Bangalore](https://img.shields.io/badge/JUG-Bangalore-007396?logo=java&logoColor=white)](https://www.meetup.com/bangalorejug/events/?eventOrigin=event_home_page)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
